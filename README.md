@@ -64,4 +64,3 @@ Ouvre une Pull Request
 
 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
-RéessayerClaude n'a pas encore la capacité d'exécuter le code qu'il génère.
